@@ -1,0 +1,27 @@
+color:
+grey: #626262
+black: #000000
+light grey: #b4ad9e
+
+font-family========
+ font-family: "Playfair", serif;
+ font-family: "Ubuntu", serif;
+
+css for font-family for download
+@font-face {
+    font-family: opensans-bold ;
+    src: url(../fonts/open-sans/opensans-bold.ttf);
+}
+@font-face {
+    font-family: opensans-light;
+    src: url(../fonts/open-sans/opensans-light.ttf);
+}
+h1{
+    font-family: opensans-bold ;
+    font-weight: 700;
+}
+h2{
+    font-family: opensans-light;
+    font-weight: 300;
+}
+.css cursor property
